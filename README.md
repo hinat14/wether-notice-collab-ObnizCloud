@@ -1,2 +1,6 @@
-# wether-notice-collab-ObnizCloud
-SonomamaDane.
+# wether-notice-collab-ObnizCl
+くそ眠い.
+あ、嘘です。
+
+幣プログラムやコードは一個人が自作する試作物であり、別環境等で動作しない恐れもあります。
+また、問題が発生しても対応しかねます。悪しからずご了承ください。
