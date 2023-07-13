@@ -6,5 +6,5 @@
 また、問題が発生しても対応しかねます。悪しからずご了承ください。
 
 以下参考にしたWebのメモ
-GASからLINEを送る：　https://daily-coding.com/gas_line/
-スプレッドシートのデータをGASで取り込む：　https://blog.synnex.co.jp/google/gas_get_and_write_data_of_spreadsheet/
+GASからLINEを送る：　https://daily-coding.com/gas_line/    
+スプレッドシートのデータをGASで取り込む：　https://blog.synnex.co.jp/google/gas_get_and_write_data_of_spreadsheet/        
