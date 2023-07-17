@@ -1,0 +1,26 @@
+//純粋にOWMから天気を取得するプログラム(GASで動作確認済み)
+function myFunction() {
+ var apiKey = "ef079fe3d9daacc789c83a4d1da62b94";
+ var url = `api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=${apiKey}&lang=ja`;
+ var response = UrlFetchApp.fetch(url);
+ var forecast = JSON.parse(response.getContentText());
+ var weather = forecast.weather[0].main;
+ logger.log(wether):
+}
+
+//これで雨量取れたはず...(GASで動作せず)
+function myFunction() {
+  var apiKey = "ef079fe3d9daacc789c83a4d1da62b94";
+  var lat = 34.98;
+  var lon = 135.75;
+  
+ var url = `https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&appid={apikey}`;
+
+ var response = UrlFetchApp.fetch(url);
+ var owm_ans = JSON.parse(response.getContentText());
+ 
+}
+
+//純粋なAPI-Url
+api.openweathermap.org/data/2.5/forecast?lat=34.98&lon=135.75&appid=ef079fe3d9daacc789c83a4d1da62b94
+
