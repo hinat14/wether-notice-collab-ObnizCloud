@@ -9,5 +9,5 @@ GASからLINEを送る：　https://daily-coding.com/gas_line/
 OWMをGASで天気予報取得するコード： https://note.com/taraco123/n/n275cc4b5b7d2           
 
 補足：ブランチの使い分け
-maim=メインブランチ
+maim=メインブランチ        
 stock=迷走の果てに使わなくなったコードなどの置き場
